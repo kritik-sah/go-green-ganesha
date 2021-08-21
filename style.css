@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  scroll-behavior: smooth !important;
+  background-color: rgba(145, 241, 145, 0.329);
+  font-family: "Poppins", sans-serif;
+}
+.nav-link {
+  margin: auto 2rem;
+}
+.heading{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.rounded{
+    border-radius: 20px !important;
+}
+
+.vendor-ganesh {
+  height: auto;
+  width: 80%;
+  margin: auto !important;
+}
+.colored-container {
+  color:rgba(0, 141, 0, 0.664);
+  background-color: rgba(145, 241, 145, 0.329);
+  
+}
+.a{
+    color:rgb(0, 87, 0);
+    background-color: aliceblue !important;
+}
+.a:hover{
+    color:rgb(23, 199, 23);
+}
+
+
