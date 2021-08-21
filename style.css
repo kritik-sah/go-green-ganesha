@@ -37,4 +37,10 @@ body {
     color:rgb(23, 199, 23);
 }
 
+.footer{
+    background-color: aliceblue;
+    color:rgb(0, 87, 0);
+    border-top: 2px solid black;
+    margin-top: 2rem;
+}
 
